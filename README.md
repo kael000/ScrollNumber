@@ -6,5 +6,5 @@ Input number, better
 - jQuery v1.7+
 
 ```
-
+$('input.scrollnumber').scrollnumber();
 ```
