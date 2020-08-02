@@ -2,5 +2,5 @@
 Input number, better
 
 # Requirements
-Mandatory requirements
+### Mandatory requirements
 - jQuery v1.7+
