@@ -5,6 +5,7 @@ Input number, better
 ### Mandatory requirements
 - jQuery v1.7+
 
+# Getting started
 ```
 $('input.scrollnumber').scrollnumber();
 ```
