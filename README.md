@@ -28,5 +28,5 @@ These are the default options:
 but you can overwrite them like follows:
 
 ```
-$('input.scrollnumber').scrollnumber({decimals:2, step:0.05, dseparator: ','});
+$('input.scrollnumber').scrollnumber({decimals:2, step:0.05, dseparator: ',', maxAlt: 'MAX'});
 ```
