@@ -21,8 +21,8 @@ These are the default options:
 	tseparator: '', // thousands separator
 	prefix: '', // prefix
 	suffix: '', // suffix
-	minAlt: '', // a text or anything as displayed alternative to the minimum number
-	maxAlt: '' // a text or anything as displayed alternative to the minimum number
+	minAlt: '', // a text or anything to be displayed as an alternative to the min number
+	maxAlt: '' // a text or anything to be displayed as an alternative to the max number
 };
 ```
 
